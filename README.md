@@ -7,4 +7,4 @@ You can reach me on:
 - Twitter: **[@tygoegmond](https://twitter.com/tygoegmond)**
 - LinkedIn: **[Tygo Egmond](https://linkedin.com/in/tygoegmond/)**
 - Instagram: **[@tygoegmond](https://instagram.com/tygoegmond)**
-- Snapchat: **[@tygoegmond](https://www.snapchat.com/add/tygoegmond)**
+- Snapchat: **[tygoegmond](https://www.snapchat.com/add/tygoegmond)**
