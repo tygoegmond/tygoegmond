@@ -1,5 +1,5 @@
 # Hi! 👋🏼
-My name is Tygo and I'm 19 years old. I'm a student at Windesheim University of Applied Sciences and a self-taught programmer with a passion for technology and coding. I enjoy finding innovative solutions and continuously learning to expand my skills.
+My name is Tygo and I'm 20 years old. I'm a student at Windesheim University of Applied Sciences and a self-taught programmer with a passion for technology and coding. I enjoy finding innovative solutions and continuously learning to expand my skills.
 
 ### Get in Touch
 You can reach me on:
