@@ -1,5 +1,5 @@
 # Hi! 👋🏼
-My name is Tygo and I'm 20 years old. I'm a student at Windesheim University of Applied Sciences and a self-taught programmer with a passion for technology and coding. I enjoy finding innovative solutions and continuously learning to expand my skills.
+My name is Tygo, and I'm 20 years old. Currently working on shaping the future of EV at Volt Time, I'm a self-taught programmer with an unwavering passion for technology and coding. I take pride in discovering innovative solutions and am committed to continuous learning and expanding my skillset.
 
 ### Get in Touch
 You can reach me on:
