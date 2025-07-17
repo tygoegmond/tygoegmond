@@ -1,10 +1,10 @@
-# Hi! 👋🏼
-My name is Tygo, and I'm 20 years old. Currently working on shaping the future of EV at Volt Time, I'm a self-taught programmer with an unwavering passion for technology and coding. I take pride in discovering innovative solutions and am committed to continuous learning and expanding my skillset.
+## 👋 Hi, I'm Tygo Egmond
 
-### Get in Touch
-You can reach me on:
-- Email: **tygoregmond@gmail.com**
-- Twitter: **[@tygoegmond](https://twitter.com/tygoegmond)**
-- LinkedIn: **[Tygo Egmond](https://linkedin.com/in/tygoegmond/)**
-- Instagram: **[@tygoegmond](https://instagram.com/tygoegmond)**
-- Snapchat: **[tygoegmond](https://www.snapchat.com/add/tygoegmond)**
+**Lead Developer @ Volt Time**
+
+- 🔭 Currently building Volt Time Cloud, apps, and related software.
+- 💻 Tech stack: Laravel, React, React Native, JavaScript, TypeScript.
+- ⚡️ Skilled in container orchestration and cloud-native development using Kubernetes.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/tygoegmond/)
+
+I'm passionate about delivering scalable solutions and building impactful software. Always learning, always building!
