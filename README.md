@@ -12,5 +12,6 @@ I'm passionate about delivering scalable solutions and building impactful softwa
 </br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tygoegmond&theme=dark&hide_border=true"/>
+    <img src="https://github-contribution-stats.vercel.app/api/?username=tygoegmond" alt="GitHub Contribution Stats" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tygoegmond&theme=default" alt="GitHub Streak Stats" />
 </p>
