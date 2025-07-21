@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tygo Egmond
+## Hi there 👋
 
 **Lead Developer @ Volt Time**
 
