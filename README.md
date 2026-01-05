@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**Lead Developer @ Volt Time**
+**Lead Developer @ Volt Time/Plugchoice**
 
-- 🔭 Currently building Volt Time Cloud, apps, and related software.
+- 🔭 Currently building Plugchoice, apps, and related software.
 - 💻 Tech stack: Expo, JavaScript, Laravel, PHP, React, React Native, TypeScript.
 - ⚡️ Skilled in container orchestration and cloud-native development using Kubernetes.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/tygoegmond/)
