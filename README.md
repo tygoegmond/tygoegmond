@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Lead Developer @ Volt Time/Plugchoice**
+**Technical Director @ Volt Time/Plugchoice**
 
 - 🔭 Currently building Plugchoice, apps, and related software.
 - 💻 Tech stack: Expo, JavaScript, Laravel, PHP, React, React Native, TypeScript.
