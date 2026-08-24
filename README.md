@@ -6,5 +6,3 @@
 - 💻 Tech stack: Expo, Go, JavaScript, Laravel, PHP, React, React Native, TypeScript.
 - ⚡️ Skilled in container orchestration and cloud-native development using Kubernetes.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/tygoegmond/)
-
-I'm passionate about delivering scalable solutions and building impactful software.
